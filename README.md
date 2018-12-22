@@ -6,6 +6,8 @@ Integrantes:
 
 -Allan Jones  8-942-662
 
+-Harold Harper 8-886-1404
+
 ## Project setup
 ```
 npm install
