@@ -1,5 +1,9 @@
 # ProyectoF
 
+Integrantes:
+-Josue Rosales A-0476-2694
+-Allan Jones  8-942-662
+
 ## Project setup
 ```
 npm install
